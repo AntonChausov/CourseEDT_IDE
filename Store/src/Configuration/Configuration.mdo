@@ -13,7 +13,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Вася</vendor>
-  <version>1.0.1.1</version>
+  <version>1.0.1.2</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -39,4 +39,6 @@
   </languages>
   <catalogs>Catalog.СправочникПоставщика1</catalogs>
   <catalogs>Catalog.СправочниПоставщика2</catalogs>
+  <documents>Document.ДокументПоставщика1</documents>
+  <informationRegisters>InformationRegister.РегистрСведенийПоставщика1</informationRegisters>
 </mdclass:Configuration>

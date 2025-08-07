@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1f1f90fe-a556-413e-8eb0-46008092890c">
+  <producedTypes>
+    <selectionType typeId="52b29f48-06d8-4dbb-8da3-32907a637bed" valueTypeId="658eaa4f-173b-48a1-839e-1cad55bb9d16"/>
+    <listType typeId="90bbfe43-292e-4d3d-8e22-3c52f45392b4" valueTypeId="c589887f-b3f7-46d4-a631-ef0c17c61b4f"/>
+    <managerType typeId="710d4d95-999f-49d3-9064-a3209cf25c2f" valueTypeId="2daa38a6-d2d1-46fd-a0ea-07498d258784"/>
+    <recordSetType typeId="02e8acfc-6997-4c9a-8888-c3973983493c" valueTypeId="1e91f153-42e0-44a0-8217-5bfd9ac7436e"/>
+    <recordKeyType typeId="faddf63e-a243-48a9-a2aa-25b4bccde649" valueTypeId="30b38e50-0e33-4742-ae5c-5528bcf54445"/>
+    <recordType typeId="ba7b2365-4e83-4ece-b1f0-0f5ffbd50d94" valueTypeId="c348a2c4-0d79-433f-bd2d-4e5a6bc41cdf"/>
+    <recordManagerType typeId="255c4386-b190-4788-8786-2386f23d4724" valueTypeId="f92b4b7c-8609-4fb8-804e-02320705002c"/>
+  </producedTypes>
+  <name>РегистрСведенийПоставщика1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр сведений поставщика1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="49eedb76-a3bc-42fe-aee9-0f772e633c82">
+    <name>Ресурс1</name>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+  </resources>
+</mdclass:InformationRegister>
