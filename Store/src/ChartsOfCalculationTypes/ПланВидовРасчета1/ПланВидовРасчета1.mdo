@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c25384e5-d74b-4f3d-88f3-ad3edae5a761">
+  <producedTypes>
+    <objectType typeId="b68f9bc2-404f-4064-8652-076a60ff6834" valueTypeId="f47a224b-3356-404b-90d4-dc40b8a4eba5"/>
+    <refType typeId="8366b93a-21fd-4986-8f5c-fabb4dc9ffc6" valueTypeId="6aa1db11-1c75-4dba-8e9f-5955c7e53ec4"/>
+    <selectionType typeId="b23a852b-f618-4f03-a32e-a91c90ea1f51" valueTypeId="0e344fe8-cf28-4b39-a92e-3ac20694ba9c"/>
+    <listType typeId="b65b870e-a390-4069-b058-f6e2aa727a46" valueTypeId="7ac121ce-7281-4109-be9f-6d7cfe4c5114"/>
+    <managerType typeId="1d9e9909-64e7-4b47-9955-6b6f34849e2e" valueTypeId="74fda41b-3e35-484e-8ca7-91670146e715"/>
+    <displacingCalculationTypesType typeId="243e6256-865b-44fa-9329-2c10bde6ec32" valueTypeId="fb8f9495-5359-4625-87a8-69330368df49"/>
+    <displacingCalculationTypesRowType typeId="072c9f55-2b93-4adf-ac52-af25508db775" valueTypeId="1fd3428b-9ba7-4a0c-8fba-a388bce00a2a"/>
+    <baseCalculationTypesType typeId="22fa5ffe-cb86-4882-b058-1e4eb9b17929" valueTypeId="6bc7935d-a072-488e-be2b-948d5ffe4590"/>
+    <baseCalculationTypesRowType typeId="571f398f-7dff-459a-9af4-176aeac25fb0" valueTypeId="da6fb892-463a-40f9-85ac-7c1a194119e2"/>
+    <leadingCalculationTypesType typeId="44a3067c-83ff-46aa-ae69-f1de71009b30" valueTypeId="373db66a-e586-45eb-a5e6-04e6f1461dd3"/>
+    <leadingCalculationTypesRowType typeId="095ea43c-254a-4be8-b5ae-f1ff91ec5b53" valueTypeId="fd829bd8-9bf2-4ef7-9885-0be3e03cc550"/>
+  </producedTypes>
+  <name>ПланВидовРасчета1</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCalculationTypes.ПланВидовРасчета1.StandardAttribute.Description</inputByString>
+  <inputByString>ChartOfCalculationTypes.ПланВидовРасчета1.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <descriptionLength>40</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ChartOfCalculationTypes>

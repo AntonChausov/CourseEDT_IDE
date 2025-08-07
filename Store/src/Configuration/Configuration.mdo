@@ -64,4 +64,6 @@
   <informationRegisters>InformationRegister.РегистрСведенийПоставщика1</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
+  <chartsOfAccounts>ChartOfAccounts.ПланСчетов1</chartsOfAccounts>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ПланВидовРасчета1</chartsOfCalculationTypes>
 </mdclass:Configuration>
