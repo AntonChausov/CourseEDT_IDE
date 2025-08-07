@@ -49,6 +49,7 @@
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.РеализацияТовара</documents>
