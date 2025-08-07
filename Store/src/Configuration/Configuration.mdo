@@ -55,11 +55,13 @@
   <catalogs>Catalog.Справочник3</catalogs>
   <catalogs>Catalog.СправочникПоставщика1</catalogs>
   <catalogs>Catalog.СправочниПоставщика2</catalogs>
+  <documents>Document.ДокументПоставщика1</documents>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.РеализацияТовара</documents>
   <reports>Report.ОстаткиТоваров</reports>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
   <dataProcessors>DataProcessor.Обработка1</dataProcessors>
+  <informationRegisters>InformationRegister.РегистрСведенийПоставщика1</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик</chartsOfCharacteristicTypes>
 </mdclass:Configuration>
